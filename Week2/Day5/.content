@@ -1,0 +1,9 @@
+AIMessage(
+    content="1. Oatmeal with berries...",
+    response_metadata={
+        'token_usage': {'completion_tokens': 45, 'prompt_tokens': 20, 'total_tokens': 65},
+        'model_name': 'gpt-4o-mini',
+        'finish_reason': 'stop'
+    },
+    id='run-...'
+)
